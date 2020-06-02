@@ -1,0 +1,3 @@
+rootProject.name='card'
+include ':app'
+include ':ListItems'
